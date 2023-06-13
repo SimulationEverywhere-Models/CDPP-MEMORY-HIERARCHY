@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDPlusPlus_Builder_Version_1.0.0>
+  <top>
+    <components> centralprocessingunit@CentralProcessingUnit &#xd;</components>
+    <out> AddressOut&#xd;</out>
+    <out> DataReceived&#xd;</out>
+    <out> ErrorOut&#xd;</out>
+    <in> ControlIn&#xd;</in>
+    <in> DataIn&#xd;</in>
+    <Link> ControlIn ControlIn@centralprocessingunit&#xd;</Link>
+    <Link> DataIn DataIn@centralprocessingunit&#xd;</Link>
+    <Link> DataReceived@centralprocessingunit DataReceived&#xd;</Link>
+    <Link> AddressOut@centralprocessingunit AddressOut&#xd;</Link>
+    <Link> ErrorOut@centralprocessingunit ErrorOut&#xd;</Link>
+  </top>
+  <centralprocessingunit>
+    <distribution> normal&#xd;</distribution>
+    <mean> 3&#xd;</mean>
+    <deviation> 1&#xd;</deviation>
+  </centralprocessingunit>
+</CDPlusPlus_Builder_Version_1.0.0>

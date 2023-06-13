@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="http://www.example.org/DEVSModeler" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <CoupledModelType xmi:id="_MxNJIBhtEeKlzuCxn5gimg" modelName="" defined="true" sourceFileRelativePath="cacheMA.ma"/>
+  <notation:Diagram xmi:id="_MxNJIRhtEeKlzuCxn5gimg" type="DEVS" element="_MxNJIBhtEeKlzuCxn5gimg" name="cacheMA.madesigner" measurementUnit="Pixel">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_MxNJIhhtEeKlzuCxn5gimg"/>
+  </notation:Diagram>
+</xmi:XMI>
